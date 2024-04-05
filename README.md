@@ -292,7 +292,7 @@ const dirs = xdg.linux();
 
 ### [.win32](index.js#L145)
 
-Get XDG equivalent paths for MacOS. Used by the main export when `process.platform` is `win32`. Aliased as `xdg.windows()`.
+Get XDG equivalent paths for Windows. Used by the main export when `process.platform` is `win32`. Aliased as `xdg.windows()`.
 
 **Params**
 
